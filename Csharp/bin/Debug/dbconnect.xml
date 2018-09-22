@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dbinfo>
+  <connection>
+    <svname>sc-13-pc</svname>
+    <dbname>StudentManagement</dbname>
+    <uid>sa</uid>
+    <pwd>kmdsysdba</pwd>
+  </connection>
+</dbinfo>

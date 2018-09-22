@@ -1,0 +1,11 @@
+D:\aungkhantzaw\my train\Csharp\Csharp\bin\Debug\Csharp.exe.config
+D:\aungkhantzaw\my train\Csharp\Csharp\bin\Debug\Csharp.exe
+D:\aungkhantzaw\my train\Csharp\Csharp\bin\Debug\Csharp.pdb
+D:\aungkhantzaw\my train\Csharp\Csharp\obj\Debug\Csharp.frmMain.resources
+D:\aungkhantzaw\my train\Csharp\Csharp\obj\Debug\Csharp.frmStudentDisplay.resources
+D:\aungkhantzaw\my train\Csharp\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\aungkhantzaw\my train\Csharp\Csharp\obj\Debug\Csharp.StudentEntry.resources
+D:\aungkhantzaw\my train\Csharp\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\aungkhantzaw\my train\Csharp\Csharp\obj\Debug\Csharp.exe
+D:\aungkhantzaw\my train\Csharp\Csharp\obj\Debug\Csharp.pdb
+D:\aungkhantzaw\my train\Csharp\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
